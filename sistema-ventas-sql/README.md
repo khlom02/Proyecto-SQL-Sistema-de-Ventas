@@ -49,8 +49,7 @@ El sistema está compuesto por las siguientes entidades:
 
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/sistema-ventas-sql.git
-   cd sistema-ventas-sql
+   https://github.com/khlom02/Proyecto-SQL-Sistema-de-Ventas.git
 
 Abrir MySQL Workbench.
 
